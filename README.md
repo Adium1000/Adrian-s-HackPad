@@ -14,7 +14,7 @@ This hackpad includes:
 
 Compact form factor powered via USB
 
-#🔌 Schematic
+# 🔌 Schematic
 
 ![Logo](Presentation-Readme/Schematich.png)
 
@@ -40,7 +40,7 @@ Data → GPIO 7
 
 All components are powered from USB (5V), with proper decoupling and data line protection.
 
-🧩 PCB
+# 🧩 PCB
 
 ![Logo](Presentation-Readme/PCB.png)
 
