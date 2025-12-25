@@ -2,7 +2,7 @@
 This project is a custom hackpad / macro pad based on the Seeed XIAO RP2040, designed for productivity and media control on Windows.
 It features dedicated macro keys, a rotary encoder for volume control, and addressable RGB LEDs for visual feedback.
 # 🖼️ Hackpad – Overall View
-📷 Screenshot: Overall Hackpad
+![Logo](Presentation-Readme/3D.png)
 
 This hackpad includes:
 
@@ -16,7 +16,7 @@ Compact form factor powered via USB
 
 #🔌 Schematic
 
-📷 Screenshot: Schematic
+![Logo](Presentation-Readme/Schematich.png)
 
 
 
@@ -42,7 +42,7 @@ All components are powered from USB (5V), with proper decoupling and data line p
 
 🧩 PCB
 
-📷 Screenshot: PCB Layout
+![Logo](Presentation-Readme/PCB.png)
 
 The PCB was designed to be:
 
@@ -55,9 +55,6 @@ Optimized for small enclosures
 Compatible with the Seeed XIAO RP2040 footprint
 
 # 🧱 Case & Assembly
-
-📷 Screenshot: Case and Assembly
-
 
 
 The case is designed to:
@@ -81,6 +78,7 @@ Attach encoder knob
 Close case with top cover
 
 # ⌨️ Firmware & Key Functions
+Arduino Code
 
 Keys
 
