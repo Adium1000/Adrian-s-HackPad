@@ -34,7 +34,7 @@ The PCB was designed to be:
 
 Single-board, compact layout
 
-# 🧱 Case & Assembly
+# Case & Assembly
 
 
 The case is designed to:
@@ -68,7 +68,7 @@ Rotate counter-clockwise → Volume Down
 
 Press encoder → Mute
 
-# 📦 Bill of Materials (BOM)
+# Bill of Materials (BOM)
 Qty	Component	Description
 - 1	Seeed XIAO RP2040	Microcontroller board
 - 5	Mechanical switches	MX-style or compatible
