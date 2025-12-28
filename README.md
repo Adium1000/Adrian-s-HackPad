@@ -1,7 +1,7 @@
 # Adrian-s-HackPad
 This is a custom macro pad based on the Seeed XIAO RP2040, It features dedicated macro keys, a rotary encoder for volume control, and addressable RGB LEDs for visual feedback.
 # Overall View
-![Logo](Presentation-Readme/3D.png)
+![Logo](Presentation-Readme/product.png)
 
 This hackpad includes:
 
@@ -35,7 +35,7 @@ The PCB was designed to be:
 Single-board, compact layout
 
 # Case & Assembly
-
+![Logo](Presentation-Readme/3D.png)
 
 The case is designed to:
 
@@ -45,7 +45,7 @@ Allow RGB light diffusion
 
 Expose the USB port cleanly
 
-# ⌨️ Firmware & Key Functions
+# Firmware & Key Functions
 Arduino Code
 
 Keys
