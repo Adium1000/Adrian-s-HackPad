@@ -51,14 +51,14 @@ The case is designed to:
 - Press encoder → Mute
 
 # Bill of Materials (BOM)
-| Qty | Component           | Description            |
-|:---:|:-------------------:|:----------------------:|
-|  1  | Seeed XIAO RP2040   | Microcontroller board  |
-|  5  | Mechanical switches | MX-style or compatible |
-|  1  | Rotary encoder      | With push button       | 
-|  8  | WS2812B LEDs        | Addressable RGB LEDs   |
-|  1  | PCB                 | Custom designed        |
-|  1  | Case                | 3D printed or CNC      |
-|  1  | Encoder knob        | Any compatible knob    |
-|  5  | Keycaps             | 1u keycaps             |
-|  1  | USB cable           | USB-C (or as needed)   |
+| Quantity | Component           | Description            |
+|:--------:|:-------------------:|:----------------------:|
+| 1        | Seeed XIAO RP2040   | Microcontroller board  |
+| 5        | Mechanical switches | MX-style or compatible |
+| 1        | Rotary encoder      | With push button       | 
+| 8        | WS2812B LEDs        | Addressable RGB LEDs   |
+| 1        | PCB                 | Custom designed        |
+| 1        | Case                | 3D printed or CNC      |
+| 1        | Encoder knob        | Any compatible knob    |
+| 5        | Keycaps             | 1u keycaps             |
+| 1        | USB cable           | USB-C (or as needed)   |
