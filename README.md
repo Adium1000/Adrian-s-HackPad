@@ -1,5 +1,5 @@
 # Adrian's-HackPad
-This is a custom macro pad based on the Seeed XIAO RP2040, It features dedicated macro keys, a rotary encoder for volume control, and addressable RGB LEDs for visual feedback.
+This is a custom macro pad based on the Seeed XIAO RP2040, It features dedicated macro keys, a rotary encoder for volume control.
 
 # Overall View
 ![Logo](Presentation-Readme/product.png)
@@ -12,7 +12,7 @@ This hackpad includes:
 
 #  Schematic
 
-![Logo](Presentation-Readme/Schematich.png)
+![Logo](Presentation-Readme/Schematics.png)
 
 
 **Components:**
@@ -20,9 +20,10 @@ This hackpad includes:
 - MCU: Seeed XIAO RP2040
 - Keys: Connected directly to GPIO pins
 - Rotary Encoder:
-- RGB LEDs
+- Buzzer
 
 # PCB
+![Logo](Presentation-Readme/PCB3D.png)
 
 ![Logo](Presentation-Readme/PCB.png)
 
@@ -56,7 +57,7 @@ The case is designed to:
 | 1        | Seeed XIAO RP2040   | Microcontroller board  |
 | 5        | Mechanical switches | MX-style or compatible |
 | 1        | Rotary encoder      | With push button       | 
-| 8        | WS2812B LEDs        | Addressable RGB LEDs   |
+| 1        | Buzzer      | Buzzz!   |
 | 1        | PCB                 | Custom designed        |
 | 1        | Case                | 3D printed or CNC      |
 | 1        | Encoder knob        | Any compatible knob    |
