@@ -1,7 +1,12 @@
 # Adrian's-HackPad
 This is a custom macro pad based on the Seeed XIAO RP2040, It features dedicated macro keys, a rotary encoder for volume control.
 
-# Overall View
+# Overall View (RLF)
+![real](Presentation-Readme/ov.jpg)
+
+![real](Presentation-Readme/ov2.jpg)
+
+# Overall View (3D)
 ![Logo](Presentation-Readme/product.png)
 
 This hackpad includes:
@@ -63,3 +68,7 @@ The case is designed to:
 | 1        | Encoder knob        | Any compatible knob    |
 | 5        | Keycaps             | 1u keycaps             |
 | 1        | USB cable           | USB-C (or as needed)   |
+
+# Why and how I did this
+- I did this to learn more about 3D modeling and CAD
+- I Matched a lot of components to a pcb, and place all of that to a 3D case
